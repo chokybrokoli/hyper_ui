@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hyper_ui/core.dart';
-import '../view/uk_carousel_view.dart';
 
 class UkCarouselController extends State<UkCarouselView> {
   static late UkCarouselController instance;

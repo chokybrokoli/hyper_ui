@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hyper_ui/core.dart';
-import 'package:hyper_ui/shared/widget/carousel/carousel.dart';
-import '../controller/uk_carousel_controller.dart';
 
 class UkCarouselView extends StatefulWidget {
   const UkCarouselView({Key? key}) : super(key: key);
